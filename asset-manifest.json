@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/trek-bikes.git/static/css/main.34dad3f9.chunk.css",
+    "main.js": "/trek-bikes.git/static/js/main.2c26187a.chunk.js",
+    "main.js.map": "/trek-bikes.git/static/js/main.2c26187a.chunk.js.map",
+    "runtime-main.js": "/trek-bikes.git/static/js/runtime-main.8625a53a.js",
+    "runtime-main.js.map": "/trek-bikes.git/static/js/runtime-main.8625a53a.js.map",
+    "static/js/2.b6d87e17.chunk.js": "/trek-bikes.git/static/js/2.b6d87e17.chunk.js",
+    "static/js/2.b6d87e17.chunk.js.map": "/trek-bikes.git/static/js/2.b6d87e17.chunk.js.map",
+    "index.html": "/trek-bikes.git/index.html",
+    "static/css/main.34dad3f9.chunk.css.map": "/trek-bikes.git/static/css/main.34dad3f9.chunk.css.map",
+    "static/js/2.b6d87e17.chunk.js.LICENSE.txt": "/trek-bikes.git/static/js/2.b6d87e17.chunk.js.LICENSE.txt",
+    "static/media/MountainBike.0a0cad06.webp": "/trek-bikes.git/static/media/MountainBike.0a0cad06.webp",
+    "static/media/duck.ec6b46d6.webp": "/trek-bikes.git/static/media/duck.ec6b46d6.webp",
+    "static/media/generation.2103f8e1.jpg": "/trek-bikes.git/static/media/generation.2103f8e1.jpg",
+    "static/media/helmet.4e36298c.webp": "/trek-bikes.git/static/media/helmet.4e36298c.webp",
+    "static/media/plastic.36d90443.webp": "/trek-bikes.git/static/media/plastic.36d90443.webp",
+    "static/media/redbarn.c65fb0db.webp": "/trek-bikes.git/static/media/redbarn.c65fb0db.webp",
+    "static/media/runup.3f6e10b6.webp": "/trek-bikes.git/static/media/runup.3f6e10b6.webp",
+    "static/media/shoes.50ecf68c.webp": "/trek-bikes.git/static/media/shoes.50ecf68c.webp",
+    "static/media/us.e173c4df.svg": "/trek-bikes.git/static/media/us.e173c4df.svg",
+    "static/media/vid.81f1d575.mp4": "/trek-bikes.git/static/media/vid.81f1d575.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8625a53a.js",
+    "static/js/2.b6d87e17.chunk.js",
+    "static/css/main.34dad3f9.chunk.css",
+    "static/js/main.2c26187a.chunk.js"
+  ]
+}
